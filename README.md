@@ -58,9 +58,6 @@ print(len(names), "certificates generated.")
 
 The generated certificates will be saved in the `out` directory with filenames based on the corresponding names.
 
-![Aruna Raut Certificate](example_output/Jane%20Smith.png)
-
-![Ritu Raut Certificate](example_output/Jane%20Smith.png)
 
 Note: The images shown above are just examples. The actual certificates will vary based on the provided input and template.
 
